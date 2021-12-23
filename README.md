@@ -24,7 +24,7 @@ c. Checking the presence of missing values
 
 d. 5 point summary of numerical attributes
 
-e. Distribution of ‘bmi’, ‘age’ and ‘charges’ columns 
+e. Distribution of ‘bmi’, ‘age’ and ‘charges’ column
 
 f. Measure of skewness of ‘bmi’, ‘age’ and ‘charges’ columns
 
