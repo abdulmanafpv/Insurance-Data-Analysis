@@ -35,6 +35,7 @@ h. Distribution of categorical columns (include children)
 i. Pair plot that includes all the columns of the data frame 
 
 4. Answer the following questions with statistical evidence 
+
 a. Do charges of people who smoke differ significantly from the people who don't?
 
 b. Does bmi of males differ significantly from that of females?
