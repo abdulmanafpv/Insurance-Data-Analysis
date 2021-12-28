@@ -10,7 +10,7 @@ insurance company, attributes of customers like the ones mentioned below can be 
 making business decisions.
 # Objective: 
  Go to deep into this data and to find some valuable insights
-# Steps and tasks:
+# Steps and Tasks:
 1. Import the necessary libraries
 2. Read the data as a data frame
 3. Perform basic EDA which should include the following and print out your insights at every
